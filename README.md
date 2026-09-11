@@ -6,6 +6,12 @@ A Python-based network security analysis tool that analyzes captured network tra
 
 The WiFi Security Analyzer analyzes network packet data to identify traffic patterns and potential security concerns. The project uses Scapy to process packet captures and Flask to display the results in a web-based dashboard.
 
+## Dashboard
+
+The Flask dashboard displays network traffic statistics and highlights potential security concerns identified during packet analysis.
+
+![WiFi Security Analyzer Dashboard](wifi-security-dashboard.png)
+
 ## Technologies Used
 
 - Python
